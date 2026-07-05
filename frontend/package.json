@@ -1,0 +1,9 @@
+{
+  "name": "medscan-ai-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MedScan AI — single-file frontend (no build step required)",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
